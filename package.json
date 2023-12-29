@@ -81,7 +81,7 @@
     "cypress": "^9.4.1",
     "cypress-dotenv": "^2.0.0",
     "cypress-terminal-report": "^3.4.2",
-    "cypress-wait-until": "^1.7.2",
+    "cypress-wait-until": "^3.0.1",
     "dotenv": "^16.0.0",
     "eslint": "^8.9.0",
     "eslint-config-next": "^12.0.10",
